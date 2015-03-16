@@ -2,3 +2,4 @@
 Musician Application For Android
 
 Ali Şırk
+Çağatay Özyurt
